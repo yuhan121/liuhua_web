@@ -9,8 +9,9 @@ img { margin-bottom: 24px;
 }
 
 .navbar-default{
-background-color: #34495E !important;
-border-color: #34495E !important;
+// background-image: url("{{ site.url }}{{ site.baseurl }}/images/respic/home.jpg");
+background-color: #007dba !important;
+border-color: #007dba !important;
 border-bottom-width: thin;
 margin-left:0px;
 margin-right:0px;

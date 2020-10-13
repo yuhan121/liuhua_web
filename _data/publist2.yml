@@ -1,0 +1,111 @@
+﻿- title: "The 2020 Report of The Lancet Countdown on Health and Climate Change"
+  image: dummy.png
+  description: ""
+  authors: The 2020 Lancet Countdown team (including <b>Shi, L.</b>)
+  link:
+    url: 
+    display: The Lancet (In press), 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Long-term Effects of PM2.5 on Neurological Disorders in the American Medicare Population: a longitudinal cohort study"
+  image: dummy.png
+  description: ""
+  authors: <b>Shi, L.</b>; Wu, X.; Yazdi, M.; Braun, D.; Awad, Y.A.; Wei, Y.; Liu, P.; Di, Q.; Wang, Y.; Schwartz, J.; Dominici, F.; Kioumourtzoglou, M.A.; Zanobetti, A.
+  link:
+    url:
+    display: The Lancet Planetary Health (officially online October 19), 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "The association between long-term exposure to low-level PM2.5 and mortality in the state of Queensland, Australia: A modelling study with the difference-in-differences approach"
+  image: dummy.png
+  description: 
+  authors: Yu, W.; Guo, Y.; <b>Shi, L.</b>; Li, S.
+  link:
+    url: 
+    display: "PLoS Medicine 17(6): e1003141., 2020"
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
+- title: "Urban Air Pollution May Enhance COVID-19 Case Fatality and Mortality Rates in the United States"
+  image: dummy.png
+  description: ""
+  authors: Liang, D.; <b>Shi, L.</b>; Zhao, J.; Liu, P.; Sarnat, J.; Gao, S.; Schwartz, J.; Liu, Y.; Scovronick, N.; Ebelt, S.; Scovronick, N; Chang, H.H
+  link:
+    url: https://www.geosci-model-dev-discuss.net/gmd-2019-240
+    display: The Innovation, 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "An ensemble learning approach for estimating ground-level ozone in the contiguous United States at high spatiotemporal resolution"
+  image: dummy.png
+  description: ""
+  authors: Requia, W.; Di, Q.; Silvern, R.; Kelly, J.; Koutrakis, P.; Mickley, L.; Sulprizio, M.; Amini, H.;<b> Shi, L</b>; Schwartz, J
+  link:
+    url: 
+    display: Environmental Science & Technology, 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Causal effects of air pollution on mortality in Masshachusetts"
+  image: dummy.png
+  description: We present a new mechanistic description of sea-salt aerosol debromination in the GEOS-Chem global atmospheric chemistry model with a detailed representation of halogen chemistry.
+  authors: Wei, Y.; Wang Y.; Wu X.; Di, Q.; <b>Shi, L.</b>; Koutrakis, P.; Zanobetti, A.; Dominici, F.; Schwartz, J
+  link:
+    url: https://doi.org/10.1093/aje/kwaa098
+    display: American Journal of Epidemiology, kwaa098, 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Prenatal exposure to particulate air pollution and gestational age at delivery in Massachusetts neonates 2001–2015: A perspective of causal modeling and health disparities"
+  image: dummy.png
+  description: ""
+  authors: Qiu, X.; Fong, K.; <b>Shi, L.</b>; Papatheodorou, S.; Di, Q.; Just, A.; Kosheleva, A.; Messerlian, C.; Schwartz, J.
+  link:
+    url: 
+    display: Environmental Epidemiology, 4(5), p.e113, 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Combining and Comparing an Unmanned Aerial Vehicle and Multiple Remote Sensing Satellites to Calculate Long-Term River Discharge in an Ungauged Water Source Region on the Tibetan Plateau"
+  image: dummy.png
+  description: ""
+  authors: Lou, H.; Wang, P.; Yang, S.; Hao, F.; Ren, X.; Wang, Y.;<b> Shi, L.</b>; Wang, J.; Gong, T.
+  link:
+    url: 
+    display: Remote Sensing, 12, 2155, 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Benchmark dose estimation for coke oven emissions based on oxidative damage in Chinese exposed workers"
+  image: dummy.png
+  description: ""
+  authors: Zou, K.; Wang, P.; Duan, X.; Yang, Y.; Zhang, H.; Wang, S.; <b>Shi, L.</b>; Wang, Y.; Yao, W.; Wang, W.
+  link:
+    url: 
+    display: Ecotoxicology and Environmental Safety, 202, p.110889, 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "The Association between Polymorphisms in miRNA and the Cholinesterase Activity of Workers in an Omethoate-exposed Environment"
+  image: dummy.png
+  description: ""
+  authors: Zou, K.; Zhou, X.; Wang, W.; <b>Shi, L.</b>; Fu, X.
+  link:
+    url: 
+    display: International Journal of Environmental Health Research, 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+

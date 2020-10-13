@@ -1,48 +1,55 @@
 ---
-title: "Research | 研究"
+title: "Research"
 layout: gridlay
 excerpt: "Research"
 sitemap: false
 permalink: /research/
 ---
+<p><br/></p>
+My research focuses on employing massive datasets, including satellite-retrieved high resolution exposures and health data of all Medicare beneficiaries, to investigate how climate change and air pollution influence seniors' health. More specifically, my research is focused on: <br/>
+<p></p>
+(1) application of remote sensing in environmental exposure modeling (e.g., predicting high-resolution PM2.5 and components, ozone, NO2, and temperature); <br/>
+(2) estimating the health consequences of exposure to air pollution and climate change; <br/>
+(3) estimating the link between climate change and air quality, and the mediated health impacts; <br/>
+(4) estimating the joint and independent health effects of air pollutant mixtures; <br/>
+(5) statistical modeling, e.g., causal modeling and big data approach. <br/>
 
+### Highlights
+
+{% assign number_printed = 0 %}
+{% for publi in site.data.publist1 %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
 <div class="row">
-<div class="col-sm-5 clearfix">
+{% endif %}
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/model2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+<div class="col-sm-6 clearfix">
+ <div class="wellpub">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="95%" style="margin:2 auto;" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
 </div>
 
-<div class="col-sm-7 clearfix">
-<h3>Modeling of atmospheric chemistry</h3>  
+{% assign number_printed = number_printed | plus: 1 %}
 
-Atmospheric chemistry modeling is a vibrant field, integrating cutting-edge knowledge from laboratory, theory, and field studies.
-Modeling plays a crucial role in identifying key processes governing the distributions of atmospheric species at various spatial and temporal scales.
-Modeling is also central to assessing impacts of atmospheric chemistry on air quality, public health, and climate.
-
-We are interested in (1) using atmospheric chemistry models to interpret observations from aircraft, ground networks, satellites, and other platforms,
-(2) applying modeling technique to atmospheric chemistry problems of pressing environmental concern, and
-(3) developing chemical data assimilation tools to manage the massive flow of satellite data.
-  
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
 </div>
+{% endif %}
 
-<div class="row">
-<div class="col-sm-5 clearfix">
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/satellite2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
-</div>
-
-<div class="col-sm-7 clearfix">
-<h3>Observing trace gases from space</h3>  
-Satellites continuously measure trace gases (<i>e.g.</i>, ozone, SO<sub>2</sub>, NO<sub>2</sub>, 
-HCHO, CHOCHO, BrO, CO<sub>2</sub>, NH<sub>3</sub>, and CH<sub>4</sub>) on a global scale. Observations from space have been used extensively to monitor air quality, 
-to quantify health effects, to constrain emission inventories, and to understand atmospheric chemistry processes.
-
-We are working on (1) exploiting satellite trace gas retrievals for air quality applications,
-(2) validating and intercomparing satellite retrievals,
-(3) developing and updating satellite trace gas retrieval algorithms, and
-(4) providing operational satellite trace gas products.  
-  
-</div>
-</div>
-
+<p> &nbsp; </p>

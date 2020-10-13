@@ -1,0 +1,86 @@
+﻿- title: "Long-term Effect of Air Pollution on Hospital Admissions Among Medicare Participants Using a Doubly Robust Additive Model"
+  image: dummy.png
+  description: ""
+  authors:  Yazdi, M.D.; Wang, Y.; Di, Q.; Wei, Y.; Requia, W.; <b>Shi, L.</b>; Sabbath, B.; Dominici, F.; Coull, B.; Koutrakis, P.; Evans, J.; Schwartz, J
+  link:
+    url: ""
+    display: Circulation (In review)
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Aerosol Particle Growth Sustained by High Continental Chlorine Emission in India"
+  image: dummy.png
+  description: ""
+  authors: Gunthe, S.; Liu, P.; Panda, U.; Raj, S.; Sharma, A.; Derbyshire, E.; Reyes-Villegas, E.; Allan, J.; Chen, Y.; Wang, X.; Song, S.; Pöhker, M.; <b>Shi, L.</b>; Wang, Y.; Kommula, S.; Ravikrishna, R.; McFiggans, G.; Mickley, L.; Martin, S.; Pöschl, U.; Coe, H.
+  link:
+    url: 
+    display: Nature Geoscience (In review)
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Estimation of particulate matter exposures in Iraq and Kuwait 2001-2018 during military deployment"
+  image: dummg.png
+  description: ""
+  authors: Li, J; Garshick, E; Hart, J; Li, L; <b>Shi, L.</b>; Huang, S; Koutrakis, P
+  link:
+    url: 
+    display:  Environmental Science & Technology (In review)
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Air pollution increases risks of first hospitalization with neurological conditions"
+  image: highlight1.JPG
+  description: "This is the first nationwide population-based cohort study on air pollution and neurodegeneration. 
+  We demonstrated that long-term PM2.5 exposures were significantly associated with an increased risk of first hospitalization with Parkinson’s disease, 
+  and Alzheimer’s disease and related dementias. To accommodate massive datasets, we developed novel Cox-equivalent Poisson models utilizing parallel computing to 
+  perform a computationally scalable survival analysis."
+  authors: "Liuhua Shi*, Xiao Wu*, Mahdieh Danesh Yazdi, Danielle Braun, Yara Abu Awad, Yaguang Wei, Pengfei Liu, Qian Di, Yun Wang, Joel Schwartz, Francesca Dominici, 
+  Marianthi-Anna Kioumourtzoglou, Antonella Zanobetti"
+  link:
+    url: 
+    display: The Lancet Planetary Health (officially online 2020/10/19)
+  highlight: 1
+  news2:
+  first_or_cor: 0
+  
+- title: "The 2020 Report of the Lancet Countdown on Health and Climate Change"
+  image: highlight2.JPG
+  description: "We contributed to “The 2020 Report of the Lancet Countdown on Health and Climate Change” and developed a new wildfire indicator. The Countdown project is an international collaboration that brings together leading climate scientists, engineers, economists, political scientists, public health professionals, and public health researchers from 35 institutions worldwide to “track the relationship between health and climate change”. The 43 indicators and conclusions presented in this report are the cumulative result of the last eight years of collaboration."
+  authors: The 2020 Lancet Countdown team (including Liuhua Shi)
+  link:
+    url: 
+    display: The Lancet (In press), 2020
+  highlight: 1
+  news2:
+  first_or_cor: 0
+
+- title: "Temperature variability drives temperature-related changes in mortality"
+  image: highlight3.JPG
+  description: "This is the first study to examine long term effects of weather on annual death rates in a general population, 
+  including people living in rural areas. We found, as expected, that warmer summer temperature increased death rates while warmer 
+  winter temperature decreased death rates. More interesting was that in years when the variation of daily temperature was greater 
+  in either winter or summer, more people died, and this effect was larger than the effect of average seasonal temperature. Unusual weather is bad for people’s health."
+  authors: Liuhua Shi, Itai Kloog, Antonella Zanobetti, Pengfei Liu, Joel Schwartz
+  link:
+    url: http://admin.indiaenvironmentportal.org.in/files/file/temperature%20and%20its%20variability.pdf
+    display: Nature Climate Change, 2015 
+  highlight: 1
+  news2:
+  first_or_cor: 0
+
+- title: "Even low-level air Pollution may be linked with higher death rates"
+  image: highlight4.jpg
+  description: "This study is the first of its kind to restrict exposure and to explore the dose–response relationship between PM2.5 below the current U.S. EPA standards (12 μg/m3 of annual average PM2.5, 
+  35 μg/m3 daily) and mortality in a general population. We found that both short- and long-term PM2.5 exposure was significantly associated with higher death rates, even at low levels. Most of the country 
+  is either meeting the EPA standards now, or is expected to meet them in a few years as new power plant controls kick in. This study shows that it is not enough. We need to go after coal plants that still 
+  are not using scrubbers to clean their emissions, as well as other sources of particles like traffic and wood smoke."
+  authors: Liuhua Shi, Antonella Zanobetti, Itai Kloog, Brent Coull, Petros Koutrakis, Steven Melly, Joel Schwartz.
+  link:
+    url: https://www.scienceopen.com/document_file/047eed47-3c90-408e-8665-8765f4e1ab00/PubMedCentral/047eed47-3c90-408e-8665-8765f4e1ab00.pdf
+    display: Environmental Health Perspectives, 2016
+  highlight: 1
+  news2:
+  first_or_cor: 0

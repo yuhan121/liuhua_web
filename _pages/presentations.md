@@ -1,5 +1,5 @@
 ---
-title: "Presentations | 报告"
+title: "Presentations"
 layout: gridlay
 excerpt: "Presentations"
 sitemap: false

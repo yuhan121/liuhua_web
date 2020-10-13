@@ -1,102 +1,155 @@
-﻿- name: <a href="https://www.acmrsg.org/zhu">Lei Zhu | 朱雷</a>
-  photo: Lei_Zhu.jpg
+﻿- name: <a href="http://www.liuhuashi.com/shi">Liuhua Shi</a>
+  photo: Liuhua_Shi.png
   group_member: 1
-  info: Principal Investigator, Assistant Professor (2019.12–)
-  email: zhul3@sustech.edu.cn
+  info: Principal Investigator, Assistant Professor(Research) 2019.12-
+  email:  Liuhua.shi@emory.edu
   number_educ: 0
-  education1: 2019, Research Scholar, Harvard-Smithsonian Center for Astrophysics
-  education2: 2017–2019, Postdoc, Harvard University
-  education3: 2011–2016, PhD, Harvard University
-  education4: 2008–2011, MS, Peking University
-  education5: 2004–2008, BS, Nankai University
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
   statement:
 
-- name: "Bin Bai | 白彬"
-  photo: Bin_Bai.jpg
+- name: "Shannon Moss"
+  photo: Shannon_Moss.png
   group_member: 1
-  info: Undergraduate Research Assistant (2020.08–)
-  email: 1600013520@pku.edu.cn
+  info: Data Manager
+  email: semoss@emory.edu
   number_educ: 1
-  education1: 2016-2020, BS, Peking University
+  education1: 
   education2:
   education3:
   education4:
   education5:
   statement:
 
-- name: "Yuyang Chen | 陈雨阳"
-  photo: Yuyang_Chen.jpg
+- name: "Yuhan Zhang"
+  photo: Yuhan_Zhang.png
   group_member: 1
-  info: PhD Student (2020.07–)
-  email: 11610403@mail.sustech.edu.cn
+  info: Research Assistant
+  email: yzh2698@emory.edu
   number_educ: 1
-  education1: 2016–2020, BS, SUSTech
+  education1: 2019-, Epidemiology
   education2:
   education3:
   education4:
   education5:
   statement:
 
-- name: <a href="https://www.researchgate.net/profile/Dongchuan_Pu">Dongchuan Pu | 蒲东川</a>
-  photo: Dongchuan_Pu.jpg
+- name: "Haomin Li"
+  photo: Haomin_Li.png
   group_member: 1
-  info: PhD Student (2020.07–)
-  email: 12049029@mail.sustech.edu.cn
-  number_educ: 3
-  education1: 2017–2020, MS, Jilin University
-  education2: 2018–2020, MS, Chinese Academy of Sciences (Joint Program)
-  education3: 2013–2017, BS, Jilin University
-  education4:
-  education5:
-  statement:
-
-- name: <a href="https://www.researchgate.net/profile/Lei_Shu16">Lei Shu | 束蕾</a>
-  photo: Lei_Shu.png
-  group_member: 1
-  info: Postdoc (2020.08–)
-  email: shul@sustech.edu.cn
-  number_educ: 2
-  education1: 2015-2020, PhD, Nanjing University
-  education2: 2011-2015, BS, Nanjing University
-  education3:
-  education4:
-  education5:
-  statement:
-
-- name: "Wenfu Sun | 孙文夫"
-  photo: Wenfu_Sun.jpg
-  group_member: 1
-  info: Research Assistant (2020.03–)
-  email: sunwf@mail.sustech.edu.cn
-  number_educ: 2
-  education1: 2017–2019, MS, National University of Singapore
-  education2: 2013–2017, BS, Huazhong University of Science & Technology
+  info: Reearch Assistant
+  email: haomin.li@emory.edu
+  number_educ: 1
+  education1: 2019-, Epidemiology
+  education2: 
   education3: 
   education4:
   education5:
   statement:
 
-- name: "Dakang Wang | 王大康"
-  photo: Dakang_Wang.jpg
+- name: "Tszshan Ma"
+  photo: Tszshan_Ma.png
   group_member: 1
-  info: Postdoc (2020.08–)
-  email: wangdk@sustech.edu.cn
-  number_educ: 3
-  education1: 2017-2020, PhD, Chinese Academy of Sciences
-  education2: 2014-2017, MS, China University of Geosciences
-  education3: 2010-2014, BS, North China Institute of Science & Technology
+  info: Doctoral Student
+  email: tsz.shan.ma@emory.edu
+  number_educ: 1
+  education1: 2020-, Environmental Health
+  education2: 
+  education3:
+  education4:
+  education5:
+  statement:
+
+- name: "Shiwen Huang"
+  photo: Shiwen_Huang.png
+  group_member: 1
+  info: Master Student
+  email: shiwen.huang@emory.edu
+  number_educ: 1
+  education1: 2019-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Yaoyao Qian"
+  photo: Yaoyao_Qian.png
+  group_member: 1
+  info: Master Student
+  email: yaoyao.qian@emory.edu
+  number_educ: 1
+  education1: 2019-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Mingrui Wang"
+  photo: Mingrui_Wang.png
+  group_member: 1
+  info: Master Student
+  email: mingrui.wang@emory.edu
+  number_educ: 1
+  education1: 2019-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Qiulun Li"
+  photo: Qiulun_Li.png
+  group_member: 1
+  info: Master Student
+  email: qiulun.li@emory.edu
+  number_educ: 1
+  education1: 2019-, Environmental Health
+  education2: 
+  education3: 
   education4:
   education5:
   statement:
   
+- name: "Andrew Rosenberg"
+  photo: Andrew_Rosenberg.png
+  group_member: 1
+  info: Master Student
+  email: andrew.cory.rosenberg@emory.edu
+  number_educ: 1
+  education1: 2019-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Kuo Zhang"
+  photo: Kuo_Zhang.png
+  group_member: 1
+  info: Visiting PhD student (Tsinghua University)
+  email:  kuo.zhang@emory.edu
+  number_educ: 1
+  education1: 2019-, Geography
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
 - name: "This could be you !"
-  photo: wny.jpg
+  photo: join-us.gif
   group_member: 0  
-  info: See <a href="https://www.acmrsg.org/openings">Openings</a> for more information
-  email: zhul3@sustech.edu.cn
+  info: 
+  email: Liuhua.shi@emory.edu
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
   statement:
+

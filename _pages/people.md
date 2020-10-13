@@ -1,5 +1,5 @@
-﻿---
-title: "People | 成员"
+---
+title: "People"
 layout: gridlay
 excerpt: "People"
 sitemap: false
