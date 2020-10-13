@@ -16,7 +16,7 @@ permalink: /shi/
 Gangarosa Department of Environmental Health, <br/>
 Rollins School of Public Health, Emory University<br/>
 1518 Clifton Road, Atlanta, Georgia 30322<br/>
-Email: liuhua.shi@emory.edu<br/>
+Email: liuhua.shi(at)emory.edu<br/>
 Office: RM 2036<br/>
 </div>
 </div>
